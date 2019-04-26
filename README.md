@@ -1,3 +1,4 @@
+![Picture of Airduino Unit](AIRduino_Pic.jpg)
 # Airduino
 The Airduino is an Arduino Mega Based Experimental Aircraft Primary Flight Display.  For more information on the project, a materials list, and documentation on hardware, please visit www.theopencockpit.org.  You may download the Arduino software here on Github.  Currently, the machine is ported on a NewHaven 4.3 inch sunlight viewable screen.  Using a standard Airduino Mega, the unit generates about 16 frames per second.  This project is still very much in the beta phase, and we are not aware of anyone who is actually flying with one.  Don Morris (the project originator) is hoping to fly with one in an RV-4 later on this summer.
 ## Getting Started
