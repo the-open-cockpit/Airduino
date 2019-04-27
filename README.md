@@ -16,4 +16,4 @@ There are a number of incomplete portions of code that can be worked on.  Additi
 ## Authors
 The Airdunio was created by Don Morris with assistance from Chongwen Chen.  It is our hope that we will be able to add more authors to this section in the future.  Feel free to contact us and see how you could contribute.
 ## Acknowledgments
-This work is built upon the work of many others.  This is a call out to the unsung heros who slog away in dimly lit offices generating code to improve very non-glamorous open source projects.  Your work in the Arduino community, the Rep-Rap community, and the electronics community is truely inspiring, and allows people like me to come up with fun application projects.  Thank you.
+This work is built upon the work of many others.  This is a call out to the unsung heros who slog away in dimly lit offices generating code to improve very non-glamorous open source projects.  Your work in the Arduino community, the Rep-Rap community, and the electronics community allows people like me to come up with fun application projects.  Thank you.
